@@ -1,5 +1,3 @@
-# Spacegray Dark UI theme
+# Spacegray Dracula UI theme to Atom.io
 
-Port of the [Spacegray](http://kkga.github.io/spacegray) Sublime Text theme to Atom.
-
-![screenshot](http://ridingtheclutch.com.s3.amazonaws.com/images/spacegray.png)
+Space-gray-dark-ui customized  to use with dracula syntax theme.
